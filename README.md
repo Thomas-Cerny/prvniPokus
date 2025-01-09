@@ -7,4 +7,4 @@ Náš repozitář je prázdný a obsahuje:
 - prázdno
 - vakum
 
-To už víme
+To už víme!!
