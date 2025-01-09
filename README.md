@@ -6,3 +6,4 @@ Náš repozitář je prázdný a obsahuje:
 - nulu
 - prázdno
 - vakum
+####To už víme
